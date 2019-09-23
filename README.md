@@ -1,0 +1,2 @@
+# alicloud_tags_exporter
+promethues exporter用来实现将阿里云的实例资源tag暴露给promethues server采集
